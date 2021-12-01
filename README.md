@@ -29,13 +29,17 @@ git clone  https://github.com/mohammadJaliliTorkamani/Zuma-deluxe.git
 ```bash
 g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
 ```
+
 <br/>
+
 ### Run
 Finally, run the executable file simply using:
 ```bash
 ./zuma_deluxe
 ```
+
 <br/>
+
 ### Screenshots
 | ![scr1](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2023-10-50.png "scr1") |
 | ------------ |
