@@ -1,5 +1,7 @@
 #Zuma Deluxe
 ![Frog](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/frog.png "Frog")
+
+
 Open Source and Graphical Desktop Game, Developed in `C++`, Using `SFML` library.
 
 Shoot the random but colorful balls with the frog toward the moving sequence of colorful balls to match the same balls and stop the sequence from reaching the dead point. Move your mouse to change the direction of the arrow and click to shoot the balls!
