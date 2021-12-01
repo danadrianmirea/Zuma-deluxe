@@ -21,13 +21,13 @@ Any collaboration would be appreciated.
 git clone  https://github.com/mohammadJaliliTorkamani/Zuma-deluxe.git
 ```
 
-2. Open the terminal on the repository directory and compile it using g++:
+2. Open the terminal on the repository directory and compile it using `g++`:
 ```bash
 g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 ### Run
-Simple run the executable file using:
+Finally, run the executable file simply using:
 ```bash
 ./zuma_deluxe
 ```
