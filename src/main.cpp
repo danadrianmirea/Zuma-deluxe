@@ -521,7 +521,7 @@ void setSound()
     {
         //remember to mute the sound
         //change the mute logo :
-        if(!speakerTexture.loadFromFile("mutespeaker.png"))
+        if(!speakerTexture.loadFromFile("muteSpeaker.png"))
         {
             //error
         }
@@ -531,7 +531,7 @@ void setSound()
     {
         //remember to mute the sound
         //change the mute logo :
-        if(!speakerTexture.loadFromFile("Speaker.png"))
+        if(!speakerTexture.loadFromFile("speaker.png"))
         {
             //error
         }
