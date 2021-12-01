@@ -15,7 +15,9 @@ Any collaboration would be appreciated.
 ### Requirements
 - C++ Programming Language (version 11 or higher is suggested)
 -  SFML Library
+
 <br/>
+
 ### Compile
 
 1. Download the repository by clicking on[ this link](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
