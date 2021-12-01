@@ -1,6 +1,4 @@
 # Zuma Deluxe
-![Frog](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2016-42-36.png "Frog" =320x240)
-
 
 Open Source and Graphical Desktop Game, Developed in `C++`, Using `SFML` library.
 
