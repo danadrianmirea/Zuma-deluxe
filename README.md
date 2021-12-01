@@ -3,13 +3,13 @@
 Open Source and Graphical Desktop Game, Developed in `C++`, Using `SFML` library.
 
 Shoot the random but colorful balls with the frog toward the moving sequence of colorful balls to match the same balls and stop the sequence from reaching the dead point. Move your mouse to change the direction of the arrow and click to shoot the balls! 
+Given that this open-source game was developed and tested under Linux OS, the following instructions are suggested on this OS. - Windows or macOS are not supported yet.
 
 Any collaboration would be appreciated.
 
 ------------
 
 ### Requirements
-Given that this open-source game was developed and tested under Linux OS, the following instructions are suggested on this OS. - Windows or macOS are not supported yet,
 - C++ Programming Language (version 11 or higher is suggested)
 -  SFML Library
 
