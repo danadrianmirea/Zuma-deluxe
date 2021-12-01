@@ -7,14 +7,12 @@ Shoot the random but colorful balls with the frog toward the moving sequence of 
 Any collaboration would be appreciated.
 
 ------------
-<br/>
 
 ### Requirements
 Given that this open-source game was developed and tested under Linux OS, the following instructions are suggested on this OS. - Windows or macOS are not supported yet,
 - C++ Programming Language (version 11 or higher is suggested)
 -  SFML Library
 
-<br/>
 ### Compile
 
 1. Download the repository by clicking on[ this link](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
@@ -26,8 +24,6 @@ git clone  https://github.com/mohammadJaliliTorkamani/Zuma-deluxe.git
 ```bash
 g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
 ```
-
-<br/>
 
 ### Run
 Simple run the executable file using:
