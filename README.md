@@ -33,7 +33,7 @@ Finally, run the executable file simply using:
 ```
 
 ### Screenshots
-| ![scr1](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2016-39-14.png "scr1") |
+| ![scr1](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2023-10-50.png "scr1") |
 | ------------ |
 | ![scr2](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2016-41-10.png "scr2") |
 | ![scr4](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2016-38-57.png "scr4") |
