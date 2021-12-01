@@ -15,7 +15,7 @@ Any collaboration would be appreciated.
 ### Requirements
 - C++ Programming Language (version 11 or higher is suggested)
 -  SFML Library
-
+<br/>
 ### Compile
 
 1. Download the repository by clicking on[ this link](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
@@ -27,13 +27,13 @@ git clone  https://github.com/mohammadJaliliTorkamani/Zuma-deluxe.git
 ```bash
 g++ src/main.cpp -o zuma_deluxe -lsfml-graphics -lsfml-window -lsfml-system
 ```
-
+<br/>
 ### Run
 Finally, run the executable file simply using:
 ```bash
 ./zuma_deluxe
 ```
-
+<br/>
 ### Screenshots
 | ![scr1](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2023-10-50.png "scr1") |
 | ------------ |
