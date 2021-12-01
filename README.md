@@ -16,6 +16,7 @@ Given that this open-source game was developed and tested under Linux OS, the fo
 
 <br/>
 ### Compile
+
 1. Download the repository by clicking on[ this link](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
 ```bash
 git clone  https://github.com/mohammadJaliliTorkamani/Zuma-deluxe.git
@@ -33,3 +34,5 @@ Simple run the executable file using:
 ```bash
 ./zuma_deluxe
 ```
+
+### Screenshots
