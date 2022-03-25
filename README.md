@@ -1,6 +1,6 @@
 # Zuma Deluxe
 
-<img src="https://badgen.net/badge/Version/1.1/blur?icon=github"> <img src="https://badgen.net/badge/Status/Stable/blue?icon=git">
+<img src="https://badgen.net/badge/Version/1.1/green?icon=github"> <img src="https://badgen.net/badge/Status/Stable/blue?icon=git">
 
 Open Source and Graphical Desktop Game, Developed in `C++`, Using `SFML` library.
 
