@@ -1,5 +1,5 @@
 # Zuma Deluxe
-
+<img src="https://badgen.net/badge/Version/1.1/blur?icon=git"> <img src="https://badgen.net/badge/Status/Stable/blue?icon=git">
 Open Source and Graphical Desktop Game, Developed in `C++`, Using `SFML` library.
 
 Shoot the random but colorful balls with the frog toward the moving sequence of colorful balls to match the same balls and stop the sequence from reaching the dead point. Move your mouse to change the direction of the arrow and click to shoot the balls! 
