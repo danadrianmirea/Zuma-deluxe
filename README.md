@@ -1,6 +1,7 @@
 # Zuma Deluxe
 
 <img src="https://badgen.net/badge/Version/1.1/blue?icon=github"> <img src="https://badgen.net/badge/Status/Stable/green?icon=git">
+<br/>
 <a href="https://www.buymeacoffee.com/mohammadjalili" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <br/>
