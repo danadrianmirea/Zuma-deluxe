@@ -1,6 +1,9 @@
 # Zuma Deluxe
 
 <img src="https://badgen.net/badge/Version/1.1/blue?icon=github"> <img src="https://badgen.net/badge/Status/Stable/green?icon=git">
+<a href="https://www.buymeacoffee.com/mohammadjalili" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<br/>
 
 Open Source and Graphical Desktop Game, Developed in `C++`, Using `SFML` library.
 
@@ -48,6 +51,3 @@ Finally, run the executable file simply using:
 | ![scr4](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2016-38-57.png "scr4") | ![scr3](https://github.com/mohammadJaliliTorkamani/Zuma-deluxe/blob/master/screenshots/Screenshot%20from%202021-12-01%2016-43-54.png "scr3") |
 
 <br/>
-
-### Buy Me a Coffee
-<a href="https://www.buymeacoffee.com/mohammadjalili" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
